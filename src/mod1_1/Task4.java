@@ -1,3 +1,5 @@
+package mod1_1;
+
 public class Task4 {
 private final String name;
 
