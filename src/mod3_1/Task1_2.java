@@ -77,7 +77,7 @@ public class Task1_2 {
         }
     }
     static class Bus extends Car{
-        private final int maxPassengers = 54;
+        private final int maxPassengers = 66;
         private int numPassengers = 0;
 
         public Bus(double topSpeed, double tankCap) {
